@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/birthday-reminder-ui/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/birthday-reminder-ui/static/js/main.fa213136.chunk.js",
-    "main.js.map": "/birthday-reminder-ui/static/js/main.fa213136.chunk.js.map",
-    "runtime-main.js": "/birthday-reminder-ui/static/js/runtime-main.3a8d30d2.js",
-    "runtime-main.js.map": "/birthday-reminder-ui/static/js/runtime-main.3a8d30d2.js.map",
-    "static/js/2.b7e79a6d.chunk.js": "/birthday-reminder-ui/static/js/2.b7e79a6d.chunk.js",
-    "static/js/2.b7e79a6d.chunk.js.map": "/birthday-reminder-ui/static/js/2.b7e79a6d.chunk.js.map",
-    "static/js/3.6ae39f3f.chunk.js": "/birthday-reminder-ui/static/js/3.6ae39f3f.chunk.js",
-    "static/js/3.6ae39f3f.chunk.js.map": "/birthday-reminder-ui/static/js/3.6ae39f3f.chunk.js.map",
+    "main.js": "/birthday-reminder-ui/static/js/main.938de333.chunk.js",
+    "main.js.map": "/birthday-reminder-ui/static/js/main.938de333.chunk.js.map",
+    "runtime-main.js": "/birthday-reminder-ui/static/js/runtime-main.e951b9f5.js",
+    "runtime-main.js.map": "/birthday-reminder-ui/static/js/runtime-main.e951b9f5.js.map",
+    "static/js/2.d5c1239c.chunk.js": "/birthday-reminder-ui/static/js/2.d5c1239c.chunk.js",
+    "static/js/2.d5c1239c.chunk.js.map": "/birthday-reminder-ui/static/js/2.d5c1239c.chunk.js.map",
+    "static/js/3.00ba3a76.chunk.js": "/birthday-reminder-ui/static/js/3.00ba3a76.chunk.js",
+    "static/js/3.00ba3a76.chunk.js.map": "/birthday-reminder-ui/static/js/3.00ba3a76.chunk.js.map",
     "index.html": "/birthday-reminder-ui/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/birthday-reminder-ui/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b7e79a6d.chunk.js.LICENSE.txt": "/birthday-reminder-ui/static/js/2.b7e79a6d.chunk.js.LICENSE.txt",
+    "static/js/2.d5c1239c.chunk.js.LICENSE.txt": "/birthday-reminder-ui/static/js/2.d5c1239c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/birthday-reminder-ui/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a8d30d2.js",
-    "static/js/2.b7e79a6d.chunk.js",
+    "static/js/runtime-main.e951b9f5.js",
+    "static/js/2.d5c1239c.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.fa213136.chunk.js"
+    "static/js/main.938de333.chunk.js"
   ]
 }
