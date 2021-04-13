@@ -34,9 +34,24 @@ class UserListing extends React.Component {
         <div>
             User List:
             <p>{this.state.isLoading ?  'Loading ...' : 
-            this.state.userList.map(each => <div>{each.name}</div>)
-            
-            } </p>
+                <table>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Registered On</th>
+                    </tr>
+
+                    {this.state.userList.map(each =>
+                        <tr>
+                            <td>{each.id}</td>
+                            <td>{each.name}</td>
+                            <td>{each.createdAt}</td>
+                        </tr>
+                    )}
+
+                </table>
+            }
+            </p>
         </div>
         )
     }
